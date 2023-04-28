@@ -29,7 +29,7 @@ void print_diagonal(int n)
 }
 
 
-7-main.c
+7 - main.c
 #include "main.h"
 
 /**
